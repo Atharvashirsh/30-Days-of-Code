@@ -2,8 +2,8 @@
 Time Limit: 2 sec <br>
 Memory Limit: 128000 kB
 ## Problem Statement
-You are given integers L, R, and a string S consisting of lowercase English letters.
-Print this string after reversing (the order of) the L-th through R-th characters.
+You are given integers L, R, and a string S consisting of lowercase English letters.<br>
+Print this string after reversing (the order of) the L<sup>th</sup> through R<sup>th</sup> characters.
 ## Input
 The input line contains L and R separated by space. The next line S
 > L R <br>
